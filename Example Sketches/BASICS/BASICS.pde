@@ -9,7 +9,7 @@ void setup() {
 
   size(800, 600); //size is measured in pixel, I choose 800x600 resolution for a nice quality
   //size(displayWidth, displayHeight); //fullscreen
-  background(127); //background is the color of the background, I choose black
+  background(127); //background is the color of the background, I choose grey
 }
 
 void draw() {
