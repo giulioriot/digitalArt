@@ -27,5 +27,6 @@ void draw() {
 
   stroke(255, 0, 0); //red color
   point(200, 400);
+  stroke(0, 0, 255); //blue color
   point(200, 200);
 }
