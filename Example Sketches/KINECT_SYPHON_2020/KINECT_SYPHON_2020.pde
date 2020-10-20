@@ -2,7 +2,7 @@
 // Depth thresholding by Daniel Shiffman
 // From Open Kinect for Processing 
 /*
- * Politecnico di Milano, Digital Art 2019/2020
+ * Politecnico di Milano, Digital Art 2020/2021
  * Teacher assistant: Giulio Interlandi 
  */
 
