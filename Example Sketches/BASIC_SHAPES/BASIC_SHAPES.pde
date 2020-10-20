@@ -5,7 +5,7 @@
  */
 
 void setup() {
-  background(0);
+  background(0); /* rgb colors (R,G,B) ex.(255,0,0) is red */
   size(800, 600);
 }
 
