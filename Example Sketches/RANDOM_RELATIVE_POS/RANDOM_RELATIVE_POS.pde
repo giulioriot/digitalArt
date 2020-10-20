@@ -1,6 +1,6 @@
 // Random and relative postions
 /*
- * Politecnico di Milano, Digital Art 2019/2020
+ * Politecnico di Milano, Digital Art 2020/2021
  * Teacher assistant: Giulio Interlandi 
  */
 
@@ -12,8 +12,8 @@ void setup() {
 }
 
 void draw() {
-  //filter(BLUR, 1);  // filters are cool, but they slow down fps
-  //delay(250); // delete delay to go faster
+  filter(BLUR, 1);  // filters are cool, but they slow down fps
+  delay(250); // delete delay to go faster
   fill(random(255), random(255), random(255));
   rect(width/2, height/2, random(800), random(600));
 }
