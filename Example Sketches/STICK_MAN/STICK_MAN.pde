@@ -1,6 +1,6 @@
 //Stickman
 /*
- Politecnico di Milano, Digital Art 2019/2020
+ Politecnico di Milano, Digital Art 2020/2021
  Teacher assistant: Giulio Interlandi 
  */
 
