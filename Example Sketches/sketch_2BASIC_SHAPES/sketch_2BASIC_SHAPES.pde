@@ -1,6 +1,6 @@
 // Basic shapes
 /*
- * Politecnico di Milano, Digital Art 2020/2021
+ * Politecnico di Milano, Digital Art 2021/2022
  * Teacher assistant: Giulio Interlandi 
  */
 
